@@ -7,14 +7,13 @@ Dana, a data journalist, initially created an interactive website that allowed v
 To use the new and improved filters, a user can choose any combination of date, city, state, country, and shape. 
 
 Site visitors could also choose to search by just one of the filters. The screenshot below shows the data filtered by shape.
-![This is an image](Starter_Code/web/static/images/circles.png) 
+![This is an image](https://github.com/mmstrouth/UFOs/blob/a4af96b22812241abb0977d5958fc76f1f773a42/Starter_Code/web/static/images/circles.png) 
 
 Site visitors could choose to search by two of the criteria. The screenshot below shows the data filtered by state and shape.
-![This is an image](Starter_Code/web/static/images/circles and ca.png)
+![This is an image](https://github.com/mmstrouth/UFOs/blob/a4af96b22812241abb0977d5958fc76f1f773a42/Starter_Code/web/static/images/circles%20and%20ca.png)
 
 Here is an example of the data filtered by three criteria: date, state, and shape.
-![This is an image](Starter_Code/web/static/images/date and ca and shape.png)
-
+![This is an image](https://github.com/mmstrouth/UFOs/blob/a4af96b22812241abb0977d5958fc76f1f773a42/Starter_Code/web/static/images/date%20and%20ca%20and%20shape.png)
 
 ## Summary
 The new design allows for more customized searching which can be a possible drawback. Visitors to the site may become frustrated if they do not see results if their criteria is too limited or too specific. 
