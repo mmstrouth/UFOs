@@ -10,10 +10,10 @@ Site visitors could also choose to search by just one of the filters. The screen
 ![This is an image](Starter_Code/web/static/images/circles.png) 
 
 Site visitors could choose to search by two of the criteria. The screenshot below shows the data filtered by state and shape.
-***cicles and ca
+![This is an image](Starter_Code/web/static/images/circles and ca.png)
 
 Here is an example of the data filtered by three criteria: date, state, and shape.
-****all three
+![This is an image](Starter_Code/web/static/images/date and ca and shape.png)
 
 
 ## Summary
