@@ -7,7 +7,7 @@ Dana, a data journalist, initially created an interactive website that allowed v
 To use the new and improved filters, a user can choose any combination of date, city, state, country, and shape. 
 
 Site visitors could also choose to search by just one of the filters. The screenshot below shows the data filtered by shape.
-***shape screenshot
+![This is an image](Starter_Code/web/static/images/circles.png) 
 
 Site visitors could choose to search by two of the criteria. The screenshot below shows the data filtered by state and shape.
 ***cicles and ca
